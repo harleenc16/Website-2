@@ -102,7 +102,7 @@
 }
 
 .overlay:hover .description{
-    opacity: 80;
+    opacity: 60;
     cursor: pointer;
 }
 
