@@ -123,6 +123,7 @@ textarea:focus {
   background-color: black;
   height: auto; 
   text-align: center;
+  padding-top: 10px;
 
 }
 
@@ -156,40 +157,52 @@ textarea:focus {
   padding-left: 30px;  
 }
 
-@media screen and (max-width: 1500px){
-  .more-container{
-    height: 420vh; 
-  }
+.slider {
+  position: relative;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-@media screen and (max-width: 1380px){
-  .more-container{
-    height: 440vh; 
-  }
+.slider-image {
+  width: 1000px;
+  height: 600px;
+  border-radius: 10px;
 }
 
-@media screen and (max-width: 1180px){
-  .more-container{
-    height: 440vh; 
-  }
+.right-arrow {
+  position: absolute;
+  top: 50%;
+  right: 32px;
+  font-size: 3rem;
+  color: #fff;
+  z-index: 10;
+  cursor: pointer;
+  user-select: none;
 }
 
-@media screen and (max-width: 900px){
-  .more-container{
-    height: 520vh; 
-  }
-
-  .more-im{
-    width: 10;
-    height: 100; 
-    align-items: center; 
-  }
-
-  .heading-text-second{
-    font-size: 14px;
-  }
+.left-arrow {
+  position: absolute;
+  top: 50%;
+  left: 32px;
+  font-size: 3rem;
+  color: #fff;
+  z-index: 10;
+  cursor: pointer;
+  user-select: none;
 }
 
+.slide {
+  opacity: 0;
+  transition-duration: 1s ease;
+}
+
+.slide.active {
+  opacity: 1;
+  transition-duration: 1s;
+  transform: scale(1.08);
+}
 
 
 .project-heading{
