@@ -1,0 +1,30 @@
+.skills-container{
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 150px;
+    height: 100%;
+}
+
+.heading{
+    color: #fff; 
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 15px;
+}
+
+.skills-body{
+    font-family: 'Courier New', Courier, monospace;
+    color: #fff; 
+    padding-top: 20px;
+    
+    padding-bottom: 10px;
+}
+
+
+@media (max-width: 1060px){
+    .skills-body{
+        font-size: 13px; 
+    }
+}
