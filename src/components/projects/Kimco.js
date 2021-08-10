@@ -18,7 +18,8 @@ export default function Kimco() {
                      mixed assets.
                  </p>
                  <p className='style-body'> I have always been interested in the intersection between buisness and technology and 
-                     interning at Kimco matched my interests perfectly. I will update this page shortly with all
+                     interning at Kimco matched my interests perfectly. So far, I have worked on Salesforce, API integration,
+                     Azure CLI, Azure Pipelies, Data Encryption and Decryption, .NET projects and SSMS. I will update this page shortly with all
                      the details. </p>
           
           </div>  

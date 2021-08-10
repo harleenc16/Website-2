@@ -23,7 +23,7 @@ export default function String() {
                  The second part of the problem reads from the same file and compares it to another file(in the code) and returns a count of all the 
                  words that do not begin with the letter of your first name(in this case-it's H). I implemented KMP algorithm to 
                  complete this task, as it is one of the more efficient algorithms for a heavy data set. 
-                 The third part iterates through the file and finds the longest palindrome. I did this but setting up various nested for
+                 The third part iterates through the file and finds the longest palindrome. I did this by setting up various nested for
                  loops inside my code. The link to this code can be found <a className='style-link' href='https://github.com/harleenc16/String-Matching-algorithm'>here </a>. 
                  
                  </p>
