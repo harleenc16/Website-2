@@ -12,7 +12,7 @@ export default function More() {
                 </p>
 
                 <p className='heading-text-second'> Other than programming, I also enjoy 
-                    photography, cooking, hiking, going on long walks, and reading. Check out some of my photography below! 
+                    photography, economics, chess, cooking, hiking, going on long walks, and reading. Check out some of my photography below! 
                 </p>
              
                 <ImageSlider slides={ImageDataSet} />;
