@@ -17,10 +17,17 @@ export default function Kimco() {
                      largest publicly traded owners and operators of open air commercial real estate and 
                      mixed assets.
                  </p>
-                 <p className='style-body'> I have always been interested in the intersection between buisness and technology and 
-                     interning at Kimco matched my interests perfectly. So far, I have worked on Salesforce, API integration,
-                     Azure CLI, Azure Pipelies, Data Encryption and Decryption, .NET projects and SSMS. I will update this page shortly with all
-                     the details. </p>
+                 <p className='style-body'> I have always been interested in the intersection between business and technology and 
+                     interning at Kimco matched my interests perfectly. During my internship, the biggest project I participated in was the 
+                     $4 billion merger with Weingarten Realty. That required data mapping, data validation, project management, documenting, etc. 
+                     Apart from that, I also worked on maintaining APIs to manage data flow between Kimco Core Systems and third-party apps 
+                     such as ERP(MRI), ADP, Salesforce and automated tasks for users. I assisted to develop a .NET Console application to process 
+                     high volumes of invoices for the Accounts Payable team. On the development team, I additionally worked on SSMS: data encryption of tables 
+                     and columns, created views, stored procedures and functions for the custom REST API processes. I also developed various DB objects - stored procedures, 
+                     triggers, tables, views and functions as per user requests. Kimco uses Salesforce as their CRM, and therefore I gained a lot of exposure 
+                     in the systems side of the company. On the Salesforce side, I created, deployed and promoted change sets to various instances within Salesforce to 
+                     fulfil specific business needs. I also worked on and edited apex classes, triggers and controllers. One of the huge projects I worked on was data loading high 
+                     volumes of data into Salesforce as a part of the Weingarten merger.</p>
           
           </div>  
   </div>
