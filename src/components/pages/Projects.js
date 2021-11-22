@@ -35,24 +35,24 @@ export default function Projects() {
 
                 <div className='project'>
                 <Link
-                        to='/assesment'> 
+                        to='/string'> 
                      <div className='overlay'>
-                        <img className='image' src="./images/audio.png"/>
+                        <img className='image' src="./images/sit.png"/>
                             <div className='description'>
                                  <p className='body-text'>
-                                 Security Assesment  </p>
+                                 Speech Therapy App </p>
                             </div>
                      </div>
                      </Link> 
                 </div>
 
             <div className='project'>
-                <Link to='/routing'> 
+                <Link to='/assesment'> 
                 <div className='overlay'>
-                    <img className='image' src="./images/routing.png"/>
+                    <img className='image' src="./images/audio.png"/>
                         <div className='description'>
                              <p className='body-text'>
-                                Intra Domain Routing Algorithm 
+                                Security Assesment 
                             </p>
                          </div>
                 </div>
@@ -91,12 +91,12 @@ export default function Projects() {
             </div>
 
         <div className='project'>
-            <Link to='/string'> 
+            <Link to='/routing'> 
             <div className='overlay'>
-                 <img className='image' src="./images/string.png"/>
+                 <img className='image' src="./images/routing.png"/>
                     <div className='description'>
                          <p className='body-text'>
-                             String Matching Algorithms
+                         Intra Domain Routing Algorithm
                           </p>
                     </div>
              </div>

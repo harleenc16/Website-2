@@ -12,7 +12,7 @@ export default function Kimco() {
 
             <div className='style-con'>
                 <p className='style-heading'>Summary</p>
-                 <p className='style-body'> I am summer intern in the IT department of a REIT
+                 <p className='style-body'> I was the summer software engineering intern at a REIT
                     (Real Esate Investment Trust) called Kimco(NYSE: KIM). Kimco is one of North America's 
                      largest publicly traded owners and operators of open air commercial real estate and 
                      mixed assets.
@@ -26,7 +26,7 @@ export default function Kimco() {
                      and columns, created views, stored procedures and functions for the custom REST API processes. I also developed various DB objects - stored procedures, 
                      triggers, tables, views and functions as per user requests. Kimco uses Salesforce as their CRM, and therefore I gained a lot of exposure 
                      in the systems side of the company. On the Salesforce side, I created, deployed and promoted change sets to various instances within Salesforce to 
-                     fulfil specific business needs. I also worked on and edited apex classes, triggers and controllers. One of the huge projects I worked on was data loading high 
+                     fulfil specific business needs. Additionally, I also worked on and edited apex classes, triggers and controllers. One of the huge projects I worked on was data loading high 
                      volumes of data into Salesforce as a part of the Weingarten merger.</p>
           
           </div>  
