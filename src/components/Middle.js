@@ -13,7 +13,7 @@ function Middle() {
 
   <div className='con'>
         <p className='body-big'>hello</p>
-          <p className='body'> I'm Harleen, a rising senior at Boston University studying Computer Engineering.</p>
+          <p className='body'> I'm Harleen, a senior at Boston University studying Computer Engineering.</p>
           <p className='body'> Some of my interests include cloud based computing, algorithms and app development, but technology is an ever-expanding
           field so I always find myself learning and enjoying new topics from time to time.  
           </p>
